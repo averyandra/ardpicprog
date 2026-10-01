@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 About This Fork
+## About This Fork
 
 This repository is a fork maintained for custom hardware engineering requirements at **VORSA Personal-Lab 01**. 
 
@@ -17,7 +17,7 @@ This repository is a fork maintained for custom hardware engineering requirement
 
 ---
 
-## 📖 Project Description
+## Project Description
 
 This distribution contains an Arduino-based solution for programming PIC microcontrollers from Microchip Technology Inc, such as the PIC16F628A and friends. The solution has three main parts:
 
@@ -27,13 +27,13 @@ This distribution contains an Arduino-based solution for programming PIC microco
 
 See the [official documentation](http://rweather.github.io/ardpicprog/) for more information on the base project.
 
-## 🚀 Obtaining ardpicprog
+## Obtaining ardpicprog
 
 The source code is available in this repository. After cloning, please read the [installation instructions](http://rweather.github.io/ardpicprog/installation.html) for compilation and setup details.
 
 ---
 
-## 👑 Credits & Original Creator
+## Credits & Original Creator
 
 This project was originally created and developed by **Rhys Weatherley**.
 
