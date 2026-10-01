@@ -10,7 +10,7 @@
 
 ## About This Fork
 
-This repository is a fork maintained for custom hardware engineering requirements at **VORSA Personal-Lab 01**. 
+This repository is a fork maintained for custom hardware engineering requirements at my **Lab**. 
 
 **Key Modifications:**
 * **Added support for PIC16F636:** Extended the original device definitions and programming logic to allow In-Circuit Serial Programming (ICSP) for the PIC16F636 microcontroller using an Arduino Uno.
